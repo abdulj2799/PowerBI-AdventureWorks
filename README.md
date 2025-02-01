@@ -1,2 +1,2 @@
 # PowerBI-AdventureWorks
-Project showcasing my skills on PowerBI
+In the "Microsoft Power BI Desktop for Business Intelligence" course by Maven Analytics, participants engage in a comprehensive project that involves designing and building a full-scale business intelligence solution from scratch using Power BI Desktop. The project encompasses the entire BI workflow, including connecting to various data sources, transforming and shaping data, constructing relational data models, creating calculated fields with DAX, and developing interactive reports and dashboards. By the end of the course, learners have hands-on experience in crafting dynamic dashboards that provide valuable insights, preparing them to apply these skills in real-world scenarios.
